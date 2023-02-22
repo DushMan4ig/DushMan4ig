@@ -1,0 +1,15 @@
+D:\C##\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.exe
+D:\C##\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.deps.json
+D:\C##\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.runtimeconfig.json
+D:\C##\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.dll
+D:\C##\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.pdb
+D:\C##\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.csproj.AssemblyReference.cache
+D:\C##\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\C##\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.AssemblyInfoInputs.cache
+D:\C##\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.AssemblyInfo.cs
+D:\C##\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.csproj.CoreCompileInputs.cache
+D:\C##\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.dll
+D:\C##\Example001_NewConsole\obj\Debug\net6.0\refint\Example001_NewConsole.dll
+D:\C##\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.pdb
+D:\C##\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.genruntimeconfig.cache
+D:\C##\Example001_NewConsole\obj\Debug\net6.0\ref\Example001_NewConsole.dll
